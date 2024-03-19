@@ -1,0 +1,15 @@
+﻿mouse,date,cheese_type,cheese_amount
+mouse_a,2/1/2024,cheddar,5
+mouse_a,2/27/2024,swiss,6
+mouse_b,2/5/2024,gorganzola,7
+mouse_b,2/17/2024,brie,1
+mouse_c,2/9/2024,cheddar,2
+mouse_c,2/11/2024,swiss,2
+mouse_d,2/4/2024,gorganzola,1
+mouse_d,2/15/2024,brie,1
+mouse_e,2/7/2024,cheddar,2
+mouse_e,2/19/2024,swiss,3
+mouse_f,2/21/2024,gorganzola,4
+mouse_f,2/3/2024,brie,5
+mouse_f,2/25/2024,cheddar,6
+mouse_g,2/3/2024,swiss,7
